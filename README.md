@@ -35,9 +35,50 @@ I am a passionate software developer specializing in Artificial Intelligence, Ma
 
 ### Featured Projects:
 
-* **Sanvadak:** A real-time American Sign Language (ASL) detection system built utilizing MediaPipe and K-Nearest Neighbors (KNN).
-* **JobCheck:** An NLP-driven application engineered to detect fraudulent job postings, featuring an administrative panel and data visualization integrations.
-* **Sustainable Waste Segregation:** A capstone project developed during the AICTE Salesforce 1M1B Green Internship focusing on tech-driven environmental sustainability.
+# Termsly - Intelligent Policy Analyzer
+Termsly is a privacy-focused tool designed to scan website Terms of Service (ToS) and Privacy Policies. It uses Natural Language Processing (NLP) to detect risky clauses, summarize complex legal jargon, and generate easy-to-read PDF reports.
+
+## Features
+
+1. Automated Scraping: Finds policy link from the given site and extract text from that policy link.
+2. AI Risk Detection: A trained ML model flags High, Medium clauses and give a overall risk prediction with a detailed Pie chart analysis.
+3. Smart Summarization: Summarize long and complex technical texts into a easy understandable summary.
+4. Multi-Language Support: Breaks language barriers by translating summaries into English, Hindi, Bengali, Tamil, French, and Russian.
+5. Instant Reports: Generates a color-coded PDF analysis for offline view.
+
+## Tech Stack
+1. Frontend: Streamlit (Interactive Web UI)
+2. Language: Python 3.9+
+3. Machine Learning:
+        scikit-learn: For TF-IDF Vectorization and Logistic Regression.
+        joblib: For model serialization/loading.
+4. Deep Learning / NLP:
+        transformers (Hugging Face): For Summarization and Translation pipelines.
+        pytorch: Backend for the transformer models.
+5. Web Scraping: selenium, beautifulsoup4
+6. PDF Engine: fpdf2, reportlab
+
+
+# JobCheck - Fake Job Detection System
+JobCheck is a Machine Learning-powered web application designed to help job seekers identify potentially fraudulent job postings. By analyzing job descriptions, requirements, company profiles etc the system calculates the probability of a job being fake and visualizes the results.
+
+## Features
+
+* User Authentication: Secure Login and Registration system for users.
+* Interactive Dashboard: A user-friendly form to input job details.
+* Real-time Prediction: Instantly classifies a job as "Real" or "Fake" using a trained Machine Learning model.
+* Probability Visualization: Generates a dynamic Pie Chart showing the confidence score of the prediction.
+* Data-Driven: Built on a dataset of real and fraudulent job postings to ensure accuracy.
+
+## Tech Stack
+
+* Backend: Python, Flask (Web Framework)
+* Machine Learning: Scikit-Learn (Random Forest), Joblib
+* Data Processing: Pandas, NumPy
+* Visualization: Matplotlib
+* Frontend: HTML5, CSS3
+* Database: SQLite
+
 
 ---
 
