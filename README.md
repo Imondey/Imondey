@@ -8,10 +8,10 @@
 
 I am a passionate software developer specializing in Artificial Intelligence, Machine Learning, Natural Language Processing, and Computer Vision. I am currently pursuing my B.Tech in Information Technology at Guru Nanak Institute of Technology (GNIT). I love building impactful, end-to-end applications that solve real-world problems.
 
-* 🚀 Currently serving as the **AI/ML Lead** and Core Committee Member for the Microsoft Student Ambassador (MSA) chapter.
-* 🎓 Certified in **Azure AI Fundamentals (AI-900)** and Microsoft Applied Skills for building NLP solutions.
-* 💻 Experienced in end-to-end development, from model training and data collection to backend configuration and database integration.
-* 📍 Based in West Bengal, India.
+* Currently serving as the **AI/ML Lead** and Core Committee Member for the Microsoft Student Ambassador (MSA) GNIT chapter.
+* Certified in **Azure AI Fundamentals (AI-900)** and Microsoft Applied Skills for building NLP solutions.
+* Experienced in end-to-end development, from model training and data collection to backend configuration and database integration. <br>
+#### 📍 Based in Kolkata, India.
 
 ---
 
@@ -40,23 +40,19 @@ Termsly is a privacy-focused tool designed to scan website Terms of Service (ToS
 
 ## Features
 
-1. Automated Scraping: Finds policy link from the given site and extract text from that policy link.
-2. AI Risk Detection: A trained ML model flags High, Medium clauses and give a overall risk prediction with a detailed Pie chart analysis.
-3. Smart Summarization: Summarize long and complex technical texts into a easy understandable summary.
-4. Multi-Language Support: Breaks language barriers by translating summaries into English, Hindi, Bengali, Tamil, French, and Russian.
-5. Instant Reports: Generates a color-coded PDF analysis for offline view.
+* Automated Scraping: Finds policy link from the given site and extract text from that policy link.
+* AI Risk Detection: A trained ML model flags High, Medium clauses and give a overall risk prediction with a detailed Pie chart analysis.
+* Smart Summarization: Summarize long and complex technical texts into a easy understandable summary.
+* Multi-Language Support: Breaks language barriers by translating summaries into English, Hindi, Bengali, Tamil, French, and Russian.
+* Instant Reports: Generates a color-coded PDF analysis for offline view.
 
 ## Tech Stack
-1. Frontend: Streamlit (Interactive Web UI)
-2. Language: Python 3.9+
-3. Machine Learning:
-        scikit-learn: For TF-IDF Vectorization and Logistic Regression.
-        joblib: For model serialization/loading.
-4. Deep Learning / NLP:
-        transformers (Hugging Face): For Summarization and Translation pipelines.
-        pytorch: Backend for the transformer models.
-5. Web Scraping: selenium, beautifulsoup4
-6. PDF Engine: fpdf2, reportlab
+* Frontend: Streamlit (Interactive Web UI)
+* Language: Python 3.9+
+* Machine Learning: Scikit-learn (Logistic Regression), joblib
+* Deep Learning / NLP: Transformers (Hugging Face), pytorch
+* Web Scraping: selenium, beautifulsoup4
+* PDF Engine: fpdf2, reportlab
 
 
 # JobCheck - Fake Job Detection System
@@ -79,7 +75,31 @@ JobCheck is a Machine Learning-powered web application designed to help job seek
 * Frontend: HTML5, CSS3
 * Database: SQLite
 
+# Real-Time ASL Detection System
+A real-time American Sign Language (ASL) detection system that recognizes hand gestures and converts them into text and speech. The system supports letters, numbers, and basic mathematical operations.
 
+## Features
+
+- Real-time hand gesture detection using MediaPipe
+- Recognition of:
+  - ASL alphabet (A-Z)
+  - Numbers (0-9)
+  - Mathematical operators (+, -, *, /)
+  - Space and Delete commands
+- Text-to-Speech conversion
+- Real-time calculation of mathematical expressions
+- Modern Tkinter-based GUI
+- Reference guide for ASL signs
+- Save conversation functionality
+
+## Tech Stack
+
+- *Hand Detection*: MediaPipe Hands
+- *Classification*: K-Nearest Neighbors (KNN)
+- *GUI Framework*: Tkinter
+- *Speech Engine*: pyttsx3
+- *Computer Vision*: OpenCV-Python
+- *Data Processing*: NumPy
 ---
 
 ### Experience & Internships:
