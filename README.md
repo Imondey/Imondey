@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Imon+Dey!+👋;AI%2FML+Enthusiast+%26+Developer;Microsoft+Student+Ambassador;B.Tech+Information+Technology+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=121d33&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Imon+Dey!;AI%2FML+Enthusiast+%26+Developer;Microsoft+Student+Ambassador+GNIT+AIML+Lead;B.Tech+Information+Technology+Student" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -22,12 +22,19 @@ I am a passionate software developer specializing in Artificial Intelligence, Ma
 <img src="https://img.shields.io/badge/HTML5-0A0E27?style=for-the-badge&logo=html5&logoColor=8B9DC3" />
 <img src="https://img.shields.io/badge/CSS3-0A0E27?style=for-the-badge&logo=css3&logoColor=8B9DC3" />
 <img src="https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=8B9DC3" />
-<img src="https://img.shields.io/badge/React-0A0E27?style=for-the-badge&logo=react&logoColor=8B9DC3" />
+<img src="https://img.shields.io/badge/SQLite-0A0E27?style=for-the-badge&logo=sqlite&logoColor=8B9DC3" />
 <br/>
 <img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=8B9DC3" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0A0E27?style=for-the-badge&logo=githubactions&logoColor=8B9DC3" />
+<img src="https://img.shields.io/badge/Scikit learn-0A0E27?style=for-the-badge&logo=scikit-learn&logoColor=8B9DC3" />
 <img src="https://img.shields.io/badge/OpenCV-0A0E27?style=for-the-badge&logo=opencv&logoColor=8B9DC3" />
 <img src="https://img.shields.io/badge/PyTorch-0A0E27?style=for-the-badge&logo=pytorch&logoColor=8B9DC3" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-0A0E27?style=for-the-badge&logo=pandas&logoColor=8B9DC3" />
+<img src="https://img.shields.io/badge/Numpy-0A0E27?style=for-the-badge&logo=numpy&logoColor=8B9DC3" />
+<img src="https://img.shields.io/badge/Flask-0A0E27?style=for-the-badge&logo=flask&logoColor=8B9DC3" />
+<img src="https://img.shields.io/badge/Mediapipe-0A0E27?style=for-the-badge&logo=mediapipe&logoColor=8B9DC3" />
+<img src="https://img.shields.io/badge/Java-0A0E27?style=for-the-badge&logo=openjdk&logoColor=8B9DC3" />
+
 </div>
 <br/>
 
